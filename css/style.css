@@ -86,3 +86,7 @@ td, th{
     height: 30px;
     padding:20px;
 }
+
+.x_delete{
+    text-decoration: none;
+}
